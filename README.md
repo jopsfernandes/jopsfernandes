@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jopsfernandes
 - 🌱 I’m currently learning some front-end principles to enhance my portfolio
 - 💞️ I’m looking be an entrepreneur
-- 📫 Q:How to reach you? A: send me a DM on instagram! @jopsfernandes
+- 📫 Q: How to reach you? A: send me a DM on instagram! @jopsfernandes
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
