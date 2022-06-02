@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jopsfernandes
-- 🌱 I’m currently learning some front-end principles to enhance my portfolio
+- 🌱 I’m currently learning some front-end stuff to enhance my resumé
 - 📫 Send me a message if you want me to work together!
 
 <div style="display: inline_block"><br>
