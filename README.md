@@ -2,7 +2,10 @@
 - 🌱 I’m currently learning some front-end stuff to enhance my skills
 - 📫 Send me a DM if you want to work together!
 
-<style> 
+
+
+<div style="display: inline_block"><br>
+  <style> 
 a {
   text-decoration: none;
 }
@@ -13,8 +16,6 @@ a:hover {
   cursor: pointer;
 }
 </style>
-
-<div style="display: inline_block"><br>
   <a href = "https://github.com/jopsfernandes?tab=repositories&q=&type=&language=javascript&sort=" decoration = "none">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
