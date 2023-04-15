@@ -6,8 +6,8 @@
 
 <div style="display: inline_block" xmlns="http://www.w3.org/1999/xhtml"><br>
  
-  <a href = "https://github.com/jopsfernandes?tab=repositories&q=&type=&language=javascript&sort=" decoration = "none">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" href = "https://github.com/jopsfernandes?tab=repositories&q=&type=&language=javascript&sort=">
   </a>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
