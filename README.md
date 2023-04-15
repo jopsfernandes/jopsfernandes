@@ -3,7 +3,7 @@
 - 📫 Send me a DM if you want to work together!
 
 <div style="display: inline_block"><br>
-  <a href = "https://github.com/jopsfernandes?tab=repositories&q=&type=&language=javascript&sort=">
+  <a href = "https://github.com/jopsfernandes?tab=repositories&q=&type=&language=javascript&sort=" decoration = "none">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
