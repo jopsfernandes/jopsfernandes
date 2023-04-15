@@ -4,7 +4,7 @@
 
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" xmlns="http://www.w3.org/1999/xhtml"><br>
   <style> 
 a {
   text-decoration: none;
