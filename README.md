@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jopsfernandes
-- 🌱 I’m currently working in some personal projects at the moment
 - 📚 Check out StudyButler, it's currently my main project.
-- 📩 Send me a DM to get in touch!
+- 📩 DM me to get in touch!
 
 
 
