@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jopsfernandes
-- 📚 Check out StudyButler, it's currently my main project.
 - 📩 DM me to get in touch!
 
 
