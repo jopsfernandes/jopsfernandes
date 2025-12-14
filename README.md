@@ -34,7 +34,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-C.svg?style=for-the-badge&logo=markdown&color=000)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![neovim](https://img.shields.io/badge/neovim-%23430098.svg?style=for-the-badge&logo=neovim&color=0B151B)
+![Cursor](https://img.shields.io/badge/Cursor-%23430098.svg?style=for-the-badge&logo=cursor&color=black)
   
 
 </div>
