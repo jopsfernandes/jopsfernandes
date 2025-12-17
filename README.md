@@ -3,7 +3,7 @@
 
 + Living in Campo Grande, Brazil 🇧🇷 
 + 22 years old 
-+ NodeJS and React programmer and always studying some technology
++ NodeJS and React programmer and always studying some new technology
 # Interested in TypeScript, Java and Mobile development
 ```
 
